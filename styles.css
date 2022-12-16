@@ -1,0 +1,169 @@
+.backgroundnav{
+    background-color: chocolate;
+    padding: 18px;
+}
+
+.textnav{
+    color: white;
+    font-size: 19px;
+}
+
+.navbar{
+   position: fixed;
+   width: 100%;
+}
+
+.nav-item{
+    padding: 0px 10px;
+}
+
+.logodiv{
+    padding-right:50px ;
+}
+
+.heightfull{
+    height: 100vh;
+}
+
+.sectionum{
+    padding-top: 86.96px;
+    background-color: #fcc302
+} 
+
+.textsectionum{
+    color: white;
+    font-size: 50px;
+    font-weight: 600;
+    margin-bottom: 34px;
+}
+
+.subtextsectionum{
+    color: white;
+    font-size: 30px;
+    margin-bottom: 34px;
+}
+
+.divcontectionsection{
+    padding: 0px 100px;
+}
+
+.btnsectionumbuy{
+    padding: 17px 25px;
+    font-size: 20px;
+    font-weight: 600;
+    margin-right: 30px;
+}
+
+.btnsectionumbuy:hover{
+    background-color: chartreuse;
+}
+
+.btnsectionumbuy:focus{
+    background-color:rgb(255, 0, 0);
+}
+
+.btnsectionumservice{
+    padding: 17px 25px;
+    font-size: 20px;
+    font-weight: 600;
+    
+}
+
+.btnsectionumtwoservice{
+    background-color:#fcc302 ;
+    padding: 17px 25px;
+    font-size: 20px;
+    font-weight: 600;
+    border: none;
+}
+
+.btnsectionumtwoservice:focus{
+    background-color:rgb(26, 228, 144);
+}
+
+.btnsectionumtwoservice:hover{
+    background-color: midnightblue;
+}
+
+.textsectiondois{
+    font-size: 50px;
+    font-weight: 600;
+    margin-bottom: 34px;
+    text-align: center;
+}
+
+.subtextsectiondois{
+    font-size: 30px;
+    margin-bottom: 34px;
+}
+
+.divcontectionsectiontwo{
+    padding: 0px 70px;
+    background-color: aquamarine;
+}
+
+.imgtres{
+   padding: 0px 70px;
+   text-align: center;
+   background-color: aquamarine;
+   
+}
+
+.textimg{
+    font-size: 40px;
+}
+
+.sectionGray {
+    padding: 93px 0px;
+    background-color: #343434;
+    
+}
+
+.linkStyleSectionSix {
+    color: white;
+    text-decoration: none;
+    font-size: 30px;
+    display: block;
+}
+
+.linkStyleSectionSix:hover {
+    color: #fcc302;
+}
+
+.textEmailSectionSix {
+    color: white;
+    font-size: 25px;
+}
+
+.inputSectionSix {
+    background-color: #fcc302;
+    border: none;
+    height: 65px;
+    width: 300px;
+}
+
+.buttonSectionSix {
+    border: none;
+    width: 100px;
+    background-color: #00bec9;
+    color: white;
+}
+
+.socialSectionSix {
+    border-radius: 50%;
+    background-color: white;
+    border: none;
+    width: 45px;
+    height: 45px;
+    margin-left: 15px;
+}
+
+.titleImgSectionThree{
+    color: white;
+    font-size: 40px;
+    font-weight: 600;
+}
+
+.paddingimg{
+    padding: 0px 70px;
+}
